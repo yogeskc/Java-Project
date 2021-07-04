@@ -1,10 +1,7 @@
-# CSC 413 - Project One
-
-## Student Name  : Yangesh KC   
-
-## Student ID    : 920771082
-
-## Student Email : ykc@mail.sfsu.edu
+Project One
+ 
+Name:Yangesh KC   
+Email : ykc@mail.sfsu.edu
 
 ### Note failure to completely fill out this README.md could cause you to recieve a  0 for your project until correctly done
 
