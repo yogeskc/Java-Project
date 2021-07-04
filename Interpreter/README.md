@@ -1,7 +1,5 @@
-# CSC 413 - Project Two - The Interpreter
+# Project  - The Interpreter
 
-## Student Name  : Yangesh  
+Name  : Yangesh  KC
 
-## Student ID    : 920771082
-
-## Student Email : ykc@mail.sfsu.edu
+Email : ykc@mail.sfsu.edu
